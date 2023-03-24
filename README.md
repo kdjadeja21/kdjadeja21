@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krushnasinh-jadeja-a02017126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushnasinh-jadeja-a02017126" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6512396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6512396" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/kdjadeja21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="u/kdjadeja21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krushnasinh-jadeja-a02017126" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushnasinh-jadeja-a02017126" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6512396" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6512396" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/kdjadeja21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="u/kdjadeja21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
