@@ -1,25 +1,84 @@
-<h1 align="center">Hi 👋, I'm Krushnasinh Jadeja</h1>
-<h3 align="center">A passionate MERN stack developer having 5+ years experience from India 🇮🇳</h3>
+<a href="https://kdjadeja.vercel.app"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/hero-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Krushnasinh. Senior Software Engineer · Cursor Ambassador · AI Consultant"></picture></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdjadeja21&label=Profile%20views&color=0e75b6&style=flat" alt="kdjadeja21" /> </p>
-
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Javascript, ReactJS, NodeJS, Typescript, Jest**
-
-- 📫 How to reach me **kdjadeja209@gmail.com**
-
-- 👨‍💻 URL: **https://linktr.ee/krushnasinh**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krushnasinh-jadeja-a02017126" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushnasinh-jadeja-a02017126" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6512396" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6512396" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/kdjadeja21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="u/kdjadeja21" height="30" width="40" /></a>
+<p align="center">
+<a href="https://kdjadeja.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-site-dark.svg"><img src="assets/badge-site-light.svg" height="44" alt="Portfolio kdjadeja.vercel.app"></picture></a>
+<a href="https://cursor.com/@kdjadeja"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-cursor-dark.svg"><img src="assets/badge-cursor-light.svg" height="44" alt="Cursor cursor.com/@kdjadeja"></picture></a>
+<a href="mailto:kdjadeja209@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><img src="assets/badge-email-light.svg" height="44" alt="Email kdjadeja209@gmail.com"></picture></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<!--stats:github-->
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 684 contributions in the last year, a 1-day current streak, since 25 Nov, longest streak 13 days, 1,062 contributions since 2020, 41 public repos, 2 stars earned."></picture>
+<!--/stats:github-->
+
+<!--stats:graph-6m-->
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="650 contributions in the last 6 months"></picture>
+<!--/stats:graph-6m-->
+
+<!--stats:years-->
+<details><summary>Last 12 months: 684 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="684 contributions in the last 12 months"></picture>
+
+</details>
+
+<details><summary>2026: 682 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="682 contributions in 2026"></picture>
+
+</details>
+
+<details><summary>2025: 148 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2025-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2025-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2025-dark.svg"><img src="assets/graph-2025-light.svg" width="100%" alt="148 contributions in 2025"></picture>
+
+</details>
+
+<details><summary>2024: 161 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2024-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2024-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2024-dark.svg"><img src="assets/graph-2024-light.svg" width="100%" alt="161 contributions in 2024"></picture>
+
+</details>
+
+<details><summary>2023: 41 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2023-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2023-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2023-dark.svg"><img src="assets/graph-2023-light.svg" width="100%" alt="41 contributions in 2023"></picture>
+
+</details>
+
+<details><summary>2022: 0 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2022-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2022-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2022-dark.svg"><img src="assets/graph-2022-light.svg" width="100%" alt="0 contributions in 2022"></picture>
+
+</details>
+
+<details><summary>2021: 5 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2021-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2021-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2021-dark.svg"><img src="assets/graph-2021-light.svg" width="100%" alt="5 contributions in 2021"></picture>
+
+</details>
+
+<details><summary>2020: 25 contributions</summary>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2020-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2020-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2020-dark.svg"><img src="assets/graph-2020-light.svg" width="100%" alt="25 contributions in 2020"></picture>
+
+</details>
+<!--/stats:years-->
+
+<!--stats:line-30d-->
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="49 contributions in the last 30 days"></picture>
+<!--/stats:line-30d-->
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/whoami-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/whoami-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: krushnasinh, senior software engineer, Gujarat, India. 7+ years shipping production software. Senior Software Engineer at EPAM Systems. Official Cursor Ambassador for India (1000+ members) and SpaceX AI Ambassador. Co-organized Cursor Hackathon Ahmedabad (1,100+ registrations, 138 check-ins, 35 teams)."></picture>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-ship-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-ship-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
+
+<p align="center">
+<a href="https://blinqplay.com"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-blinq-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-blinq-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-blinq-dark.svg"><img src="assets/app-blinq-light.svg" width="49%" alt="blinq: A visual memory game with solo play, daily challenges, and real-time multiplayer. Next.js, Clerk, Vercel."></picture></a>
+<a href="https://eventclaim.vercel.app"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-eventclaim-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-eventclaim-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-eventclaim-dark.svg"><img src="assets/app-eventclaim-light.svg" width="49%" alt="EventClaim: Check-in, coupon, and credit/offer distribution for the Cursor community. React, Google Auth."></picture></a>
+<a href="https://github.com/kdjadeja21/product-demo-video-agent-plugin"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-demo-video-plugin-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-demo-video-plugin-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-demo-video-plugin-dark.svg"><img src="assets/app-demo-video-plugin-light.svg" width="49%" alt="Product Demo Video Agent Plugin: Turns a demo.config.json into narrated 1080p product demo videos. Cursor, Agent plugin."></picture></a>
+<a href="https://inhandsalary.vercel.app"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-in-hand-helper-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-in-hand-helper-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-in-hand-helper-dark.svg"><img src="assets/app-in-hand-helper-light.svg" width="49%" alt="In-Hand Helper: Salary impact dashboard: 50% basic-salary rule, old vs new tax regime. TypeScript, React."></picture></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdjadeja21&show_icons=true&locale=en&layout=compact" alt="kdjadeja21" /></p>
+<p align="center"><sub>more ships: <a href="https://backdrop-studio.vercel.app">Backdrop Studio</a> · <a href="https://sip-calc.vercel.app">SIP Calculator</a> · <a href="https://github.com/kdjadeja21/router-pulse">Router Pulse</a></sub></p>
+
+<p align="center"><sub>numbers redrawn every night by a GitHub Action · <a href="https://kdjadeja.vercel.app">kdjadeja.vercel.app</a></sub></p>
